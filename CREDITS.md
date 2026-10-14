@@ -1,0 +1,52 @@
+# Créditos de imágenes
+
+Fotos recortadas y redimensionadas para este prototipo académico.
+
+- Productos empacados: [Open Food Facts](https://world.openfoodfacts.org) / [Open Products Facts](https://world.openproductsfacts.org), licencia CC BY-SA 3.0.
+- Frutas, verduras, carnes y platillos: [Wikimedia Commons](https://commons.wikimedia.org), licencias indicadas abajo.
+
+- `img/p01.webp` — [File:Hass avocado -white background.jpg](https://commons.wikimedia.org/wiki/File:Hass_avocado_-white_background.jpg), Fir0002, GFDL 1.2
+- `img/p02.webp` — [File:Tomato je.jpg](https://commons.wikimedia.org/wiki/File:Tomato_je.jpg), Softeis, CC BY-SA 3.0
+- `img/p03.webp` — [File:Bananas white background DS.jpg](https://commons.wikimedia.org/wiki/File:Bananas_white_background_DS.jpg), Augustus Binu, CC BY-SA 3.0
+- `img/p04.webp` — [File:Red apple on white background.jpg](https://commons.wikimedia.org/wiki/File:Red_apple_on_white_background.jpg), Sprinno, CC0
+- `img/p05.webp` — [File:Cosmopolitan salad.jpg](https://commons.wikimedia.org/wiki/File:Cosmopolitan_salad.jpg), Tiia Monto, CC BY-SA 4.0
+- `img/p06.webp` — [File:Onion on White.JPG](https://commons.wikimedia.org/wiki/File:Onion_on_White.JPG), Colin, CC BY-SA 3.0
+- `img/p07.webp` — [File:Two limes.jpg](https://commons.wikimedia.org/wiki/File:Two_limes.jpg), Rhododendrites, CC BY-SA 4.0
+- `img/p08.webp` — [File:Three Strawberries on White.jpg](https://commons.wikimedia.org/wiki/File:Three_Strawberries_on_White.jpg), Darren Hester (Ma, CC BY-SA 2.5
+- `img/p09.webp` — [File:Vegetable-Carrot-Bundle-wStalks.jpg](https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg), Evan-Amos, Public domain
+- `img/p10.webp` — [File:Raw chicken slices.jpg](https://commons.wikimedia.org/wiki/File:Raw_chicken_slices.jpg), kakyusei, CC0
+- `img/p11.webp` — [File:Hakket-oksekoed.jpg](https://commons.wikimedia.org/wiki/File:Hakket-oksekoed.jpg), Gajda-13 at autor en la página, CC BY-SA 3.0
+- `img/p12.webp` — [File:Salmon2.jpg](https://commons.wikimedia.org/wiki/File:Salmon2.jpg), Tiia Monto, CC BY-SA 3.0
+- `img/p13.webp` — [File:Liat Portal for Foodie Disorder - Fresh jumbo shrimp from San Francisco farmers market.jpg](https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_jumbo_shrimp_from_San_Francisco_farmers_market.jpg), HaJunkiyada, CC BY-SA 4.0
+- `img/p14.webp` — [File:6-Pack-Chicken-Eggs.jpg](https://commons.wikimedia.org/wiki/File:6-Pack-Chicken-Eggs.jpg), Evan-Amos, Public domain
+- `img/p15.webp` — Leche entera ultrapasteurizada adicionada con vitaminas A y D (Lala), Open Food Facts código 7501020565935, CC BY-SA 3.0
+- `img/p16.webp` — Yogur estilo griego natural (MERCADONA), Open Food Facts código 8480000205124, CC BY-SA 3.0
+- `img/p17.webp` — San Jacinto Bolitas de Queso oaxaca con cotija (San Jacinto), Open Food Facts código 7503005898762, CC BY-SA 3.0
+- `img/p18.webp` — Mantequilla sin sal (LIDL), Open Food Facts código 4056489108214, CC BY-SA 3.0
+- `img/p19.webp` — Silueta pan de molde integral sin corteza 8 cereales (Bimbo), Open Food Facts código 8412600307618, CC BY-SA 3.0
+- `img/p20.webp` — [File:Baguettes - stonesoup.jpg](https://commons.wikimedia.org/wiki/File:Baguettes_-_stonesoup.jpg), jules / stonesoup, CC BY 2.0
+- `img/p21.webp` — [File:Stacks of corn tortillas and flour tortillas, top view.jpg](https://commons.wikimedia.org/wiki/File:Stacks_of_corn_tortillas_and_flour_tortillas,_top_view.jpg), Vigilantcosmicpengu, CC BY 4.0
+- `img/p22.webp` — [File:Croissant-Petr Kratochvil.jpg](https://commons.wikimedia.org/wiki/File:Croissant-Petr_Kratochvil.jpg), Petr Kratochvil, CC0
+- `img/p23.webp` — Arroz Verde Valle (Verde Valle), Open Food Facts código 7501071303319, CC BY-SA 3.0
+- `img/p24.webp` — Spaghetti Nº5 (Barilla), Open Food Facts código 8076800195057, CC BY-SA 3.0
+- `img/p25.webp` — PURE DE TOMATE NATURAL (DEL FUERTE), Open Food Facts código 7501079729265, CC BY-SA 3.0
+- `img/p26.webp` — Aceite de oliva virgen extra (Carbonell, Deoleo), Open Food Facts código 8410010260042, CC BY-SA 3.0
+- `img/p27.webp` — Frijol negro (Verde valle), Open Food Facts código 7501071303630, CC BY-SA 3.0
+- `img/p28.webp` — Café en grano puro arábica (Nestlé, Bonka), Open Food Facts código 7613036517041, CC BY-SA 3.0
+- `img/p29.webp` — Quaker Oats Integral (QUAKER), Open Food Facts código 7500478000401, CC BY-SA 3.0
+- `img/p30.webp` — Atún aleta amarilla en hojuelas en agua (Tuny), Open Food Facts código 7501041415837, CC BY-SA 3.0
+- `img/p31.webp` — [File:Caesar salad (2).jpg](https://commons.wikimedia.org/wiki/File:Caesar_salad_(2).jpg), Geoff Peters from Vancouve, CC BY 2.0
+- `img/p32.webp` — [File:Korbel Champagne Cellars - Stierch - April 2019 05.jpg](https://commons.wikimedia.org/wiki/File:Korbel_Champagne_Cellars_-_Stierch_-_April_2019_05.jpg), Missvain, CC BY 4.0
+- `img/p33.webp` — [File:Teriyaki Chicken Rice Bowl from Botejyu (2024-12-21).jpg](https://commons.wikimedia.org/wiki/File:Teriyaki_Chicken_Rice_Bowl_from_Botejyu_(2024-12-21).jpg), Wide Awake!autor en la página, CC BY 4.0
+- `img/p34.webp` — [File:Sushi Rolls - plated - 洪洪烧腊 (885698278).jpg](https://commons.wikimedia.org/wiki/File:Sushi_Rolls_-_plated_-_%E6%B4%AA%E6%B4%AA%E7%83%A7%E8%85%8A_(885698278).jpg), Alpha from Melbourne, Aust, CC BY-SA 2.0
+- `img/p35.webp` — [File:Pizza-napoletana.jpg](https://commons.wikimedia.org/wiki/File:Pizza-napoletana.jpg), Fabryx98, CC BY-SA 4.0
+- `img/p36.webp` — [File:Fruktsallad (Fruit salad).jpg](https://commons.wikimedia.org/wiki/File:Fruktsallad_(Fruit_salad).jpg), dnm, CC BY-SA 3.0
+- `img/p37.webp` — [File:Evian Label-Free Bottle.jpg](https://commons.wikimedia.org/wiki/File:Evian_Label-Free_Bottle.jpg), James Tamim, CC BY-SA 4.0
+- `img/p38.webp` — Jugo de Naranja (Del Valle), Open Food Facts código 7501055359578, CC BY-SA 3.0
+- `img/p39.webp` — [File:15-09-26-RalfR-WLC-0098 - Coca-Cola glass bottle (Germany).jpg](https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg), autor en la página, Public domain
+- `img/p40.webp` — [File:Glass of Red Wine with a bottle of Red Wine - Evan Swigart.jpg](https://commons.wikimedia.org/wiki/File:Glass_of_Red_Wine_with_a_bottle_of_Red_Wine_-_Evan_Swigart.jpg), Evan Swigart from Chicago,, CC BY 2.0
+- `img/p41.webp` — [File:Ice cubes openphoto.jpg](https://commons.wikimedia.org/wiki/File:Ice_cubes_openphoto.jpg), Darren Hester, CC BY-SA 2.5
+- `img/p42.webp` —  (Omo), Open Food Facts código 7891150067707, CC BY-SA 3.0
+- `img/p43.webp` — [File:Paper towel.png](https://commons.wikimedia.org/wiki/File:Paper_towel.png), Mets501, CC BY-SA 3.0
+- `img/p44.webp` — [File:Biodegradable bag.jpg](https://commons.wikimedia.org/wiki/File:Biodegradable_bag.jpg), Geo Lightspeed7, CC BY-SA 4.0
+- `img/p45.webp` — Servilleta papel suave (Bosque Verde), Open Food Facts código 8480000495891, CC BY-SA 3.0
